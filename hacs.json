@@ -1,0 +1,6 @@
+{
+  "name": "Veeam ONE Dashboard",
+  "filename": "veeam-one-dashboard.js",
+  "render_readme": true,
+  "homeassistant": "2026.8.0"
+}

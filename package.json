@@ -1,0 +1,15 @@
+{
+  "name": "ha-veeam-one-dashboard",
+  "version": "0.1.0",
+  "description": "Auto-generating Home Assistant dashboard for Veeam ONE",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cenvora/ha-veeam-one-dashboard.git"
+  }
+}
